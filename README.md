@@ -1,4 +1,4 @@
-# Google Maps Review Enhancer 
+# RealRate: Weighted Google Maps Reviews 
 
 Welcome to the **Google Maps Review Enhancer **! This Chrome extension helps you easily collect and analyze reviews from any place on Google Maps. It automatically finds the top reviewers, calculates a refined rating score, and gives you a neat, exportable summary. 
 
